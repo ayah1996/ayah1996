@@ -4,6 +4,9 @@
 <h3 align="center">A passionate Front End || React JS Web Developer 👩‍💻☕❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayah1996&label=Profile%20views&color=0e75b6&style=flat" alt="ayah1996" /> </p>
+<p align="left"> <a href="https://www.twitter.com/ayah__ezzeddine" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/ayah__ezzeddine?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
+                /></a> </p>
 
 - 🌍  I'm based in Palestine, Gaza
 
