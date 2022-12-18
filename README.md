@@ -1,6 +1,6 @@
 <h1 align="center"> <span>&#10094;</span> Hello World! 👋 /<span>&#10095;</span> </h1>
 
-<h1 align="center"><img src="./name.png" height="250px" width="300px" /></h1>
+<h1 align="center"><img src="./name.png" height="180px" width="300px" /></h1>
 <h3 align="center">A passionate Front End || React JS Web Developer 👩‍💻☕❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayah1996&label=Profile%20views&color=0e75b6&style=flat" alt="ayah1996" /> </p>
