@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-
+![photo_5837101975831951493_y-removebg-preview](https://user-images.githubusercontent.com/17669366/208312970-6fc99454-f639-43c6-bd89-4af5a960076b.png)
 <h3 align="center">A passionate Front End || React JS Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayah1996&label=Profile%20views&color=0e75b6&style=flat" alt="ayah1996" /> </p>
