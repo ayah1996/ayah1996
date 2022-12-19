@@ -20,7 +20,10 @@
 
 - 📫 How to reach me **ayah.o.ezzeddine@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+<h3 align="left">➤ Connect with me :</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ayahezzeddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayahezzeddine" height="30" width="40" /></a>
   <a href="https://twitter.com/ayah__ezzeddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayah__ezzeddine" height="30" width="40" /></a>
@@ -36,7 +39,7 @@
 </p>
 
 
-### Skills 
+### ➤ Skills :
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
@@ -64,7 +67,7 @@
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
                     
-### Badges
+### ➤ Badges :
 
 <b>My GitHub Stats</b>
 
