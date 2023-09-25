@@ -72,8 +72,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ayah1996"><img src="https://github-readme-stats.vercel.app/api?username=ayah1996&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&card_width=480" alt="ayah1996's GitHub stats" /></a>
+<a href="http://www.github.com/ayah1996"><img src="https://github-readme-stats.vercel.app/api?username=ayah1996&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&card_width=490" alt="ayah1996's GitHub stats" /></a>
 
-<a href="http://www.github.com/ayah1996"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayah1996&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=480" /></a>
+<a href="http://www.github.com/ayah1996"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayah1996&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=490" /></a>
 
-<a href="https://github.com/ayah1996" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayah1996&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=480" alt="Top Languages" /></a>
+<a href="https://github.com/ayah1996" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayah1996&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=490" alt="Top Languages" /></a>
